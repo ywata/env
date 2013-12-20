@@ -1,0 +1,30 @@
+
+# MacPorts Installer addition on 2013-10-12_at_04:24:35: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+if [ -e $HOME/.alias ]; then
+  source $HOME/.alias
+fi
+if [ -e $HOME/.path ]; then
+  source $HOME/.path
+fi
+
+
+##
+# Your previous /Users/ywata/.profile file was backed up as /Users/ywata/.profile.macports-saved_2013-10-12_at_21:28:54
+##
+
+# MacPorts Installer addition on 2013-10-12_at_21:28:54: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+
+
+##
+# Your previous /Users/ywata/.profile file was backed up as /Users/ywata/.profile.macports-saved_2013-10-12_at_23:57:06
+##
+
+# MacPorts Installer addition on 2013-10-12_at_23:57:06: adding an appropriate PATH variable for use with MacPorts.
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+# Finished adapting your PATH environment variable for use with MacPorts.
+
